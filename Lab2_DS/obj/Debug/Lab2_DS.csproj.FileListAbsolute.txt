@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\для колледжа\2 СЕМЕСТР\УП\Lab2_DS\obj\Debug\Lab2_DS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\для колледжа\2 СЕМЕСТР\УП\Lab2_DS\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\для колледжа\2 СЕМЕСТР\УП\Lab2_DS\obj\Debug\App.g.cs
+C:\Users\User\Desktop\для колледжа\2 СЕМЕСТР\УП\Lab2_DS\obj\Debug\Lab2_DS_MarkupCompile.cache
+C:\Users\User\Desktop\для колледжа\2 СЕМЕСТР\УП\Lab2_DS\obj\Debug\Lab2_DS_MarkupCompile.lref
+C:\Users\User\Desktop\для колледжа\2 СЕМЕСТР\УП\Lab2_DS\bin\Debug\Lab2_DS.exe.config
+C:\Users\User\Desktop\для колледжа\2 СЕМЕСТР\УП\Lab2_DS\bin\Debug\Lab2_DS.exe
+C:\Users\User\Desktop\для колледжа\2 СЕМЕСТР\УП\Lab2_DS\bin\Debug\Lab2_DS.pdb
+C:\Users\User\Desktop\для колледжа\2 СЕМЕСТР\УП\Lab2_DS\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\для колледжа\2 СЕМЕСТР\УП\Lab2_DS\obj\Debug\Lab2_DS.g.resources
+C:\Users\User\Desktop\для колледжа\2 СЕМЕСТР\УП\Lab2_DS\obj\Debug\Lab2_DS.Properties.Resources.resources
+C:\Users\User\Desktop\для колледжа\2 СЕМЕСТР\УП\Lab2_DS\obj\Debug\Lab2_DS.csproj.GenerateResource.cache
+C:\Users\User\Desktop\для колледжа\2 СЕМЕСТР\УП\Lab2_DS\obj\Debug\Lab2_DS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\для колледжа\2 СЕМЕСТР\УП\Lab2_DS\obj\Debug\Lab2_DS.exe
+C:\Users\User\Desktop\для колледжа\2 СЕМЕСТР\УП\Lab2_DS\obj\Debug\Lab2_DS.pdb
